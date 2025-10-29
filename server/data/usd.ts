@@ -1,4 +1,4 @@
-import type { CurrencyQuote } from "@shared/schema";
+import type { CurrencyQuote } from "../shared/schema";
 
 export const usdHistory: CurrencyQuote[] = [
   { time: "2025-10-15", value: 40.25},
