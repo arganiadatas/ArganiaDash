@@ -23,7 +23,7 @@ export default function Dashboard() {
 
   const getLastUpdateTime = () => {
     if (!currencies || currencies.length === 0) return "";
-    const lastQuote = currencies[0].history[currencies[0].history.length];
+     const lastQuote = currencies[0].history[currencies[0].history.length - 1];
     return lastQuote ? formatDate(lastQuote.time) : "";
   };
 
