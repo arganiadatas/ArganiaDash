@@ -12,4 +12,5 @@ export const arsHistory: CurrencyQuote[] = [
   { time: "2025-10-26", value: 37.11 },
   { time: "2025-10-27", value: 35.69 },
   { time: "2025-10-28", value: 36.56 },
+  { time: "2025-10-29", value: 36.47 },
 ];
