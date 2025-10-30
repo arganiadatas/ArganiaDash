@@ -1,6 +1,11 @@
 import type { CurrencyQuote } from "@shared/schema";
 
 export const arsHistory: CurrencyQuote[] = [
+  { time: "2025-10-18", value: 36.23 },
+  { time: "2025-10-19", value: 36.20 },
+  { time: "2025-10-20", value: 36.69 },
+  { time: "2025-10-21", value: 37.01 },
+  { time: "2025-10-22", value: 37.03 },
   { time: "2025-10-23", value: 36.77 },
   { time: "2025-10-24", value: 37.07 },
   { time: "2025-10-25", value: 37.11 },
