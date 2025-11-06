@@ -19,4 +19,5 @@ export const usdHistory: CurrencyQuote[] = [
   { time: "2025-11-02", value: 37.90 },
   { time: "2025-11-03", value: 37.90 },
   { time: "2025-11-04", value: 38.52 },
+  { time: "2025-11-05", value: 38.12 },
 ];
