@@ -15,4 +15,7 @@ export const eurHistory: CurrencyQuote[] = [
   { time: "2025-11-03", value: 43.67 },
   { time: "2025-11-04", value: 44.25 },
   { time: "2025-11-05", value: 43.86 },
+  { time: "2025-11-06", value: 43.97 },
+  { time: "2025-11-07", value: 43.87 },
+  { time: "2025-11-08", value: 44.01 },
 ];
