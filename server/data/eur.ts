@@ -86,4 +86,6 @@ export const eurHistory: CurrencyQuote[] = [
   { time: "2026-01-13", value: 47.92 },
   { time: "2026-01-14", value: 48.14 },
   { time: "2026-01-15", value: 47.33 },
+  { time: "2026-01-16", value: 47.31 },
+  { time: "2026-01-17", value: 47.31 },
 ];
