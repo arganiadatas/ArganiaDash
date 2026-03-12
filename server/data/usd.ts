@@ -143,5 +143,7 @@ export const usdHistory: CurrencyQuote[] = [
   { time: "2026-03-06", value: 102.08 },
   { time: "2026-03-07", value: 97.36 },
   { time: "2026-03-08", value: 145.85 },
-  { time: "2026-03-09", value: 160.72 },
+  { time: "2026-03-09", value: 149.04 },
+  { time: "2026-03-10", value: 149.72 },
+  { time: "2026-03-11", value: 126.05 },
 ];
